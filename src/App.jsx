@@ -82,7 +82,7 @@ function App() {
             onClick={handleRestart}
             className="mt-4 px-5 py-2 bg-indigo-500 rounded-lg hover:bg-indigo-600 transition-all"
           >
-            Ulangi Kuis
+            x Ulangi Kuis
           </button>
         </div>
       ) : (
